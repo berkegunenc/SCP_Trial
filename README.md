@@ -1,2 +1,2 @@
-# SCP_Trial
-SCP Trial Account Developments
+# SCP_Trial_OpenSAP_Managed
+SCP Trial Account OpenSAP RAP Course Managed Scenario Developments
