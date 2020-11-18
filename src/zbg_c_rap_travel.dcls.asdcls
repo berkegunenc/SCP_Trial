@@ -1,0 +1,10 @@
+@EndUserText.label: 'Access Control - Travel Projection View'
+@MappingRole: true
+define role ZBG_C_RAP_TRAVEL {
+    grant
+        select
+            on
+                ZBG_C_RAP_TRAVEL
+                    where
+                        inheriting conditions from entity ZBG_I_RAP_TRAVEL;
+}
